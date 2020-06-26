@@ -3,9 +3,9 @@
 
 1. Ажиллуулахын тулд юу шаардлагатай вэ?
 -mysql сервер суулгаж, blog бааз үүсгэн table дотор post, user нэртэй хүснэгтүүдийг зураг дээрх талбартайгаар үүсгэнэ. 
-mysql post table.png
+https://raw.githubusercontent.com/Ochirpurev20/blog2backend/5e10aa6c8a8fe99ae381be24740faaabaf8f3663/mysql%20post%20table.png
 
-mysql user table.png
+https://raw.githubusercontent.com/Ochirpurev20/blog2backend/5e10aa6c8a8fe99ae381be24740faaabaf8f3663/mysql%20user%20table.png
 
 2. Юу хийдэг вэ?
 -Хэрэглэгчтэй холбоотой дараах замуудыг сонсоно. 
